@@ -1,4 +1,0 @@
-blog
-====
-
-Testing rails server
